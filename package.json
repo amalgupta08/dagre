@@ -1,6 +1,6 @@
 {
-  "name": "@dagrejs/dagre",
-  "version": "1.0.2-pre",
+  "name": "@amalgupta08/dagre",
+  "version": "1.0.0",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "contributors": [
@@ -22,7 +22,7 @@
     "layout"
   ],
   "dependencies": {
-    "@dagrejs/graphlib": "2.1.13"
+    "@amalgupta08/graphlib": "1.0.0"
   },
   "devDependencies": {
     "benchmark": "2.1.4",
@@ -46,6 +46,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/dagre.git"
+    "url": "git+https://github.com/amalgupta08/dagre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amalgupta08/dagre/issues"
+  },
+  "homepage": "https://github.com/amalgupta08/dagre#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
