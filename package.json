@@ -1,11 +1,8 @@
 {
   "name": "@amalgupta08/dagre",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
-  "contributors": [
-    "Matthew Dahl (https://github.com/sandersky)"
-  ],
   "license": "MIT",
   "main": "index.js",
   "scripts": {
